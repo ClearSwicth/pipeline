@@ -1,0 +1,13 @@
+{
+  "name": "clearswitch/pipeline",
+  "description": "php pipeline pattern",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Clearswitch\\Pipeline\\": "src/"
+    }
+  },
+  "minimum-stability": "dev",
+  "require": {}
+}

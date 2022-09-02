@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5681358a-36aa-4838-b682-48dd0df589a7" name="默认更改列表" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Pipeline.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/interface/StageInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testDemo/StageAddHundred.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testDemo/StageMultiHundred.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/testDemo/Test.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2ECureUb3TviHFRTEODXOLJPGqx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5681358a-36aa-4838-b682-48dd0df589a7" name="默认更改列表" comment="" />
+      <created>1662112087695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662112087695</updated>
+      <workItem from="1662112089295" duration="1410000" />
+      <workItem from="1662113532797" duration="1011000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="687" y="251" key="#com.intellij.ide.util.MemberChooser" timestamp="1662114499674">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="687" y="251" key="#com.intellij.ide.util.MemberChooser/-60.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1662114499674" />
+    <state x="731" y="306" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1662113774579">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="731" y="306" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/-60.-1055.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1662113774579" />
+    <state x="627" y="288" key="NewPhpClassDialog" timestamp="1662114525459">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="627" y="288" key="NewPhpClassDialog/-60.-1055.1920.1055/0.0.1792.1120@0.0.1792.1120" timestamp="1662113752957" />
+    <state x="627" y="288" key="NewPhpClassDialog/-60.-1080.1920.1080/0.0.1792.1120@0.0.1792.1120" timestamp="1662114525459" />
+  </component>
+</project>
